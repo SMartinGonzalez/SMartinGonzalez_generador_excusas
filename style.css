@@ -1,13 +1,12 @@
 .contenido {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    text-align: center;
-    width: 100%;
-  }
+  position: absolute;
+  top: 42%;
+  left: 0%;
+  text-align: center;
+  width: 100%;
   
-  #excuse {
-    text-align: center;
-    color: green;
-  }
-  
+}
+
+#excuse {
+  text-align: center;
+}
